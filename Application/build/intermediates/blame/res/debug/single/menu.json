@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/menu/main.xml"
+    }
+]

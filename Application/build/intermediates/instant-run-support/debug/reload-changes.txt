@@ -1,0 +1,7 @@
+CHANGED,/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/DeviceControlActivity$7$override.class
+CHANGED,/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/DeviceControlActivity$5$override.class
+CHANGED,/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/DeviceControlActivity$8$override.class
+CHANGED,/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/DeviceControlActivity$6$override.class
+CHANGED,/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/DeviceControlActivity$4$override.class
+CHANGED,/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/DeviceControlActivity$override.class

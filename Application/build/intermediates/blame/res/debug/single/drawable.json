@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/build/intermediates/res/merged/debug/drawable/leftarrow.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/src/main/res/drawable/leftarrow.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/build/intermediates/res/merged/debug/drawable/uparrow.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/src/main/res/drawable/uparrow.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable/uparrow.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/drawable/uparrow.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable/rightarrow.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/drawable/rightarrow.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable/leftarrow.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/drawable/leftarrow.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/build/intermediates/res/merged/debug/drawable/rightarrow.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/src/main/res/drawable/rightarrow.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable/downarrow.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/drawable/downarrow.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/build/intermediates/res/merged/debug/drawable/downarrow.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/src/main/res/drawable/downarrow.png"
+    }
+]
