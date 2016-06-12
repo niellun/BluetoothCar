@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothCar/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/alex/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
